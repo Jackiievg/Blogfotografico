@@ -42,8 +42,9 @@ body {
     background-position: center;
 }
 .ncenter{
+    display: block;
+    align-items: center;
     text-align:center;
-    background-position: center;
 
 }
 
@@ -135,10 +136,12 @@ body {
     height: 700px;
     border: 3px solid rgb(253, 245, 248);
 }
-.text-center {
+.text-center{
     font-family: Arial, Helvetica, sans-serif;
 }
 
 .footer {
+    display: block;
+    align-items: center;
     text-align: center;
 }
