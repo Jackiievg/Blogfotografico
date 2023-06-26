@@ -1,0 +1,144 @@
+/* Reset */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.navbar {
+    background-color: rgb(101, 101, 99) !important;
+}
+
+.fa-brands {
+    height: 4vh;
+    width: 2%;
+    position: absolute;
+    margin-top: 20%;
+    margin-left: 98%;
+}
+
+body {
+    background-color: rgb(253, 245, 248);
+}
+
+.carousel-inner {
+    width: 30%;
+    height: auto;
+    margin: 0 auto;
+    padding: 0 0%;
+}
+
+.about {
+    width: 30%;
+    height: auto;
+    margin: 0 auto;
+    padding: 0 0%;
+
+}
+
+.nleft {
+    background-image: url(multimedia/Foto\ para\ el\ About.jpg);
+    background-size: cover;
+    background-position: center;
+}
+.ncenter{
+    text-align:center;
+    background-position: center;
+
+}
+
+.item1 {
+    background-image: url(multimedia/clients/oldi/1.1.jpg);
+    background-position: center;
+    background-size: cover;
+    height: 700px;
+    border: 3px solid rgb(253, 245, 248);
+}
+
+.item2 {
+    background-image: url(multimedia/clients/oldi/2.jpg);
+    background-position: center;
+    background-size: cover;
+    height: 700px;
+    border: 3px solid rgb(253, 245, 248);
+}
+
+.item3 {
+    background-image: url(multimedia/clients/oldi/6.jpg);
+    background-position: center;
+    background-size: cover;
+    height: 700px;
+    border: 3px solid rgb(253, 245, 248);
+}
+
+.item4 {
+    background-image: url(multimedia/clients/oldi/DSC00039.jpg);
+    background-position: center;
+    background-size: cover;
+    height: 700px;
+    border: 3px solid rgb(253, 245, 248);
+}
+
+.item5 {
+    background-image: url(multimedia/clients/dizoocco/_MG_3697.jpg);
+    background-position: center;
+    background-size: cover;
+    height: 700px;
+    border: 3px solid rgb(253, 245, 248);
+}
+.item6{
+    background-image: url(multimedia/clients/dizoocco/_MG_3853.jpg);
+    background-position: center;
+    background-size: cover;
+    height: 700px;
+    border: 3px solid rgb(253, 245, 248);
+}
+.item7{
+    background-image: url(multimedia/clients/dizoocco/_MG_3989.jpg);
+    background-position: center;
+    background-size: cover;
+    height: 700px;
+    border: 3px solid rgb(253, 245, 248);
+}
+.item8{
+    background-image: url(multimedia/clients/dizoocco/_MG_4175.jpg);
+    background-position: center;
+    background-size: cover;
+    height: 700px;
+    border: 3px solid rgb(253, 245, 248);
+}
+.item9{
+    background-image: url(multimedia/clients/vakiano/2.jpg);
+    background-position: center;
+    background-size: cover;
+    height: 700px;
+    border: 3px solid rgb(253, 245, 248);
+}
+.item10{
+    background-image: url(multimedia/clients/vakiano/4.jpg);
+    background-position: center;
+    background-size: cover;
+    height: 700px;
+    border: 3px solid rgb(253, 245, 248);
+}
+.item11{
+    background-image: url(multimedia/clients/vakiano/5.jpg);
+    background-position: center;
+    background-size: cover;
+    height: 700px;
+    border: 3px solid rgb(253, 245, 248);
+}
+.item12{
+    background-image: url(multimedia/clients/vakiano/6.jpg);
+    background-position: center;
+    background-size: cover;
+    height: 700px;
+    border: 3px solid rgb(253, 245, 248);
+}
+.text-center {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.footer {
+    text-align: center;
+}
